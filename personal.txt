@@ -2,7 +2,11 @@ Benoy N Sreedhar
 benoynsreedhar@gmail.com
 9447291235
 FRA 76, Nalothukudy House
+<<<<<<< HEAD
 Iringole PO, Perumbavoor, Kerala
 
 Some corrections
 Do the changes after undo staging.
+=======
+Iringole PO, Perumbavoor, Kerala
+>>>>>>> dffe2d78a5588bf6d2edd7d7b161da21de6f44e0
