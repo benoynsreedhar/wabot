@@ -2,9 +2,6 @@ Git is popular version control sytem
 File created by Benoy N Sreedhar
 New things added into the file.
 Some changes added for commit. 15 2:35 PM
-<<<<<<< HEAD
-Trye again , Additional changes.
-=======
-Trye again
->>>>>>> 584cf39416394900967bd9ad00d8c541a57b7ca9
 Application file commit success after using API Token.
+
+Added new things to merge in Feature 01
